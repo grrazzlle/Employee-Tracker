@@ -1,6 +1,60 @@
+
+  # **[Employee-Tracker](http://github.com/grrazzlle/Employee-Tracker)**
+  
+  [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
+
+  ## Description
+
+  A data managment system that allowes users to create edit and delete data to update departments, role, and employees of a company.
+
+  Makes nice readme's  
+  ![gif of example](./Assets/myEmployeeTracker.gif)
+
+  ## Table of contents
+
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+  - [Licence](#Licence)
+  - [Contributors](#Contributors)
+  - [Tests](#Tests)
+  - [Github](#Github)
+  - [Questions](#Questions)
+
+  ## Installation
+
+  Run the schema.sql in mysql workbench, with mamp servers on, make sure server ports and passwords are set up, then run node index.js
+
+  ## Usage
+
+  Create edit and delete data to update departments, role, and employees
+
+  ## Licence
+
+  None 
+  Find licence info [here](https://choosealicense.com/)
+
+  ## Contributoring
+
+  Self
+
+  ## Tests
+
+  None
+
+  ## Github
+
+  My Github is [grrazzlle](https://github.com/grrazzlle)
+
+  ## Questions
+
+  Questions can be emailed [here](mailto:cel47@miami.edu)
+
+
 # Unit 12 MySQL Homework: Employee Tracker
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+
+Given README for assignment
 
 ## Instructions
 
