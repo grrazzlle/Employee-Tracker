@@ -7,7 +7,6 @@
 
   A data managment system that allowes users to create edit and delete data to update departments, role, and employees of a company.
 
-  Makes nice readme's  
   ![gif of example](./Assets/myEmployeeTracker.gif)
 
   ## Table of contents
