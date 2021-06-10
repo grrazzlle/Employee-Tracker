@@ -7,6 +7,8 @@
 
   This Application allows users to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
+  ## Demo
+
   ![gif of example](./Assets/myEmployeeTracker.gif)
 
   ## Table of contents
